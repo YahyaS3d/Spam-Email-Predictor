@@ -1,4 +1,5 @@
 # Spam-Email-Predictor
+#Through SVM and Adaboost comparison algorithms 
 ## SVM
 Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used for classification and regression tasks. Its primary goal is to find an optimal hyperplane that separates data points from different classes with the maximum margin. This margin allows SVM to be robust to noise and generalize well to unseen data]
 ## Adaboost
